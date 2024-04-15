@@ -64,10 +64,10 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.youtube.com/channel/UCJZb6bdl8u7dwhoUukX0_cQ" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="Mohmmed Alsaad" height="50" width="50" /></a>
-<a href="https://www.linkedin.com/in/mohammed-alsaad-50859388/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
-<a href="https://stackoverflow.com/users/22345746/kaveen-dinethma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveen-dinethma" height="50" width="50" /></a>
-<a href="https://fb.com/kaveen dinethma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
-<a href="https://instagram.com/kavee_dineth" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="kavee_dineth" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/mohammed-alsaad-50859388/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Mohmmed Alsaad" height="50" width="50" /></a>
+<a href="https://stackoverflow.com/users/15377805/mohmmed-alsaad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveen-dinethma" height="50" width="50" /></a>
+<a href="https://fb.com/mohmmedd.alsaad.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohmmed Alsaad" height="50" width="50" /></a>
+<a href="https://www.instagram.com/mohmmeddalsaad/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="Mohmmed Alsaad" height="50" width="50" /></a>
 </p>
 
 ---
