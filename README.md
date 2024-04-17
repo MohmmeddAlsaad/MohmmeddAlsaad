@@ -26,6 +26,7 @@
   ![Red Team](https://img.shields.io/badge/-red_team-red)&nbsp;
   ![BlueTeam](https://img.shields.io/badge/-blue_team-blue)&nbsp;
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BRdhanani)
+  ![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&link=https://github.com/BRdhanani)
 
 <div>
   
