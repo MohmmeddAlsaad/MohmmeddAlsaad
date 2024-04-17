@@ -25,7 +25,7 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=flat&logo=markdown)
   ![Red Team](https://img.shields.io/badge/-red_team-red)&nbsp;
   ![BlueTeam](https://img.shields.io/badge/-blue_team-blue)&nbsp;
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BRdhanani)
 
 <div>
   
